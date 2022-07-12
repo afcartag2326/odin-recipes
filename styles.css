@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: beige;
+}
+.header{
+    color: rgb(73, 72, 72)
+}
+.list{
+    list-style-position: inside;
+    list-style-type: none;
+}
+#body_mp p{
+    color: rgb(73, 72, 72);
+}
+.button{
+    background-color: rgb(73, 70, 70);
+    font-weight: bold;
+    color: white;
+}
